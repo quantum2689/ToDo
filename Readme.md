@@ -10,4 +10,4 @@ A simple Todo app built using HTML, CSS, and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ToDo.git
+   git clone https://github.com/quantum2689/ToDo.git
